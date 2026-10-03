@@ -32,21 +32,24 @@ I am especially interested in **Business Analysis, Business Systems, Digital Tra
 | Data & Reporting | KPIs, operational reporting, data validation, dashboards |
 | QA & Delivery | Testing, debugging, documentation, deployment, iteration |
 
-## Featured Work
+## Selected Private Work
 
-### [Aluminium Space Digital Platform](https://github.com/mohamedgnichi93-crypto/aluminium-space)
-A production-oriented web platform combining product discovery, quotation workflows, customer interactions, operational dashboards, multilingual UX, PDF generation, and AI-assisted features.
+My project repositories are intentionally **private** to protect company data, source code, credentials, and internal implementation details.
+
+### Aluminium Space Digital Platform
+Production-oriented platform combining product discovery, quotation workflows, customer interactions, operational dashboards, multilingual UX, PDF generation, and AI-assisted features.
 
 **Stack:** React · TypeScript · Supabase · Vite · Tailwind CSS · Framer Motion
 
-### [Business Systems Case Studies](https://github.com/mohamedgnichi93-crypto/business-systems-case-studies)
-Sanitized case studies covering business operations, finance automation, executive workflows, and energy-data analysis without exposing confidential company data.
-
 ### Finance & Accounting Automation
-A private business application for document intake, validation, fiscal workflows, payroll, reporting, audit trails, and AI-assisted extraction.
+Private business application for document intake, validation, fiscal workflows, payroll, reporting, audit trails, and AI-assisted extraction.
 
 ### ASAGI — Executive Operations Workspace
-A private internal workspace for projects, tasks, approvals, structured follow-up, and AI-assisted operational support.
+Private internal workspace for projects, tasks, approvals, structured follow-up, and AI-assisted operational support.
+
+### Energy & Operations Monitoring
+Private analytical dashboard for energy and water monitoring, reporting, validation, and secure server-side data integrations.
+
 ## Technology
 
 **Application:** React · TypeScript · JavaScript · Vite · Tailwind CSS  
